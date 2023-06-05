@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket2288
 - 👀 I’m interested in Web-Developer , Python Developer, Fast APIs.....
-- 🌱 I’m currently learning Python Django 
+- 🌱 I’m currently working on Python Django >
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - 32aniketis@gmail.com
 
